@@ -48,7 +48,7 @@ class Solution:
                     else:
                         digits[j] += 1
                         return digits
-                return [1] + digits
+        return [1] + digits
 ``` 
 range(start, stop[, step])
 参数说明：
